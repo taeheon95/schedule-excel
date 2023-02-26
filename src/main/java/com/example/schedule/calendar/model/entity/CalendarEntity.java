@@ -1,4 +1,4 @@
-package com.example.schedule.calendar.model;
+package com.example.schedule.calendar.model.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

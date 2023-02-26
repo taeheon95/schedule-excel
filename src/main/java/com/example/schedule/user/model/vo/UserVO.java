@@ -1,11 +1,9 @@
-package com.example.schedule.user.model.dto;
+package com.example.schedule.user.model.vo;
 
 import lombok.Getter;
-import lombok.Setter;
 
 @Getter
-@Setter
-public class UserDTO {
+public class UserVO {
     private Long userNo;
     private String id;
     private String password;
